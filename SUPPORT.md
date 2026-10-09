@@ -26,8 +26,9 @@ in this repository.
 - The purchase is paid with your Apple Account through the App Store, and the price is shown in your local
   currency.
 - **Where:** Settings (the gear, top right) → **Full game** opens the unlock card at any time.
-- **Restore purchases:** Settings → **Restore purchases** (the row under Full game). It brings the unlock back on a
-  new device or after reinstalling, with the same Apple Account. After unlocking, the row reads "Unlocked ✓".
+- **Restore purchases:** Settings → **Restore purchases** (the row under Full game), or the link on the Full Game
+  card. It brings the unlock back on a new device or after reinstalling, with the same Apple Account. After
+  unlocking, the row reads "Unlocked ✓".
 - If purchases are turned off in Screen Time or Ask to Buy is waiting for approval, nothing is charged until it is
   allowed.
 - **Refunds** are handled by Apple: https://reportaproblem.apple.com
@@ -77,8 +78,8 @@ da açabilirsiniz.
   ve reklam yoktur.
 - Ödeme App Store üzerinden Apple Hesabınızla yapılır; fiyat yerel para biriminizde gösterilir.
 - **Nerede:** Ayarlar (sağ üstteki dişli) → **Tam oyun** satırı kilit açma kartını her an açar.
-- **Satın alımları geri yükle:** Ayarlar → Tam oyun satırının altındaki satır. Aynı Apple Hesabıyla yeni bir cihazda
-  ya da yeniden kurulumdan sonra kilidi geri getirir.
+- **Satın alımları geri yükle:** Ayarlar → Tam oyun satırının altındaki satır ya da Tam Oyun kartındaki bağlantı. Aynı
+  Apple Hesabıyla yeni bir cihazda ya da yeniden kurulumdan sonra kilidi geri getirir.
 - Ekran Süresi'nde satın almalar kapalıysa ya da "Satın Almak İçin Sor" onay bekliyorsa, izin verilene kadar ücret
   alınmaz.
 - **İadeler** Apple tarafından yapılır: https://reportaproblem.apple.com
